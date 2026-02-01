@@ -11,6 +11,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
+- :portfolio: [portafolio](https://portafolio-medina-blush.vercel.app/). 
 <br>
 
 ## My Skills Include
